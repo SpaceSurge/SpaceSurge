@@ -12,11 +12,13 @@
 ![](https://img.shields.io/badge/Seaborn-%23E69F00.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-# Github 
+# Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=NiceCats&show_icons=true&rank_icon=github&include_all_commits=true&theme=codeSTACKr" width="400" height="300" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCats&count_private=true&layout=compact" width="400" height="300" alt="GitHub stats">
-<img src="https://github-contribution-stats.vercel.app/api/?username=NiceCats&theme=onedark" width="300" height="300" alt="GitHub stats">
+<p float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=NiceCats&show_icons=true&rank_icon=github&include_all_commits=true&theme=codeSTACKr" width="300" height="300" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCats&count_private=true&layout=compact" width="300" height="300" alt="GitHub stats">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=NiceCats&theme=onedark" width="300" height="300" alt="GitHub stats">
+</p>
 
 
 <!--
