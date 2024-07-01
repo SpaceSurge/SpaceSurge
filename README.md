@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NiceCats&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NiceCats\&rank_icon=github\&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCats&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
