@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NiceCats&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCats&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NiceCats/NiceCats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
