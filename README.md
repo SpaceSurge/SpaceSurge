@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 # Github Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=NiceCats&show_icons=true&rank_icon=github&include_all_commits=true&theme=codeSTACKr" width="300">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCats&count_private=true&layout=compact" width="300">
 <img src="https://github-contribution-stats.vercel.app/api/?username=NiceCats&theme=onedark" width="300">
