@@ -1,16 +1,3 @@
-<style>
-  .container {
-    display: flex;
-    align-items: center;
-  }
-
-  .text {
-    margin-left: 20px;
-    margin-right: -350px;
-    margin-top: 10px;
-  }
-</style>
-
 <div class="container">
   <div class="text">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&animate=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;">
@@ -38,7 +25,7 @@
 <div style="display: flex;">
     <img width=370 src="https://github-contribution-stats.vercel.app/api/?username=NiceCats&theme=onedark">
     <div style="display: flex; flex-direction: column; margin-left: 20px">
-        <img width=300 src="https://github-readme-stats.vercel.app/api?username=NiceCats&count_private=true&show_icons=true&rank_icon=github&border_radius=10&include_all_commits=true&theme=codeSTACKr" />
+        <img width=300 src="https://github-readme-stats.vercel.app/api?username=NiceCats&show_icons=true&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true&theme=codeSTACKr" />
         <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCats&count_private=true&layout=compact" width="300"/>
         <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     </div>
