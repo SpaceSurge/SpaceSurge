@@ -27,6 +27,6 @@
 <div align="left">
     <img width=300 src="https://github-readme-stats.vercel.app/api?username=NiceCats&show_icons=true&rank_icon=github&border_radius=10&include_all_commits=true&count_private=false&theme=codeSTACKr" />
     <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCats&count_private=true&layout=compact"/>
-    <img width=48% src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width=48% height=50% src="https://github-contribution-stats.vercel.app/api/?username=NiceCats&theme=onedark"/>
+    <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=300 height=50% src="https://github-contribution-stats.vercel.app/api/?username=NiceCats&theme=onedark"/>
 </div>
