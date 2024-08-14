@@ -25,8 +25,8 @@
 <h2 align="center"> Github Stats </h2>
 
 <p align="center">
-    <img width=300 src="https://github-readme-stats.vercel.app/api?username=NiceCats&show_icons=true&rank_icon=github&border_radius=10&include_all_commits=true&count_private=false&theme=codeSTACKr" />
-    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCats&count_private=true&layout=compact"/>
-    <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width=300 height=50% src="https://github-contribution-stats.vercel.app/api/?username=NiceCats&theme=onedark"/>
+    <img alt="SurgeBay's Github Stats" width=300 src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SurgeBay&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true&rank_icon=github"/>
+    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurgeBay&count_private=true&theme=dark&layout=compact"/>
+    <img width=300 alt="SurgeBay's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>
+    <img width=300 alt="SurgeBay's Github contribution stats" height=50% src="https://github-contribution-stats.vercel.app/api/?username=SurgeBay&theme=onedark/>
 </p>
