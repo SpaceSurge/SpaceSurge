@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=SpaceSurge&icon=0&color=0">
+  <img src="https://visitcount.itsvg.in/api?id=cosmobet&icon=0&color=0">
 </p>
 
 <h1 align="center">
@@ -25,8 +25,8 @@
 <h2 align="center"> Github Stats </h2>
 
 <p align="center">
-    <img alt="SurgeBay's Github Stats" width=300 src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SpaceSurge&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true&rank_icon=github"/>
-    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceSurge&count_private=true&theme=dark&layout=compact"/>
-    <img width=300 alt="SurgeBay's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>
-    <img width=300 alt="SurgeBay's Github contribution stats" height=50% src="https://github-contribution-stats.vercel.app/api/?username=SpaceSurge"/>
+    <img alt="cosmobet's Github Stats" width=300 src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=cosmobet&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true&rank_icon=github"/>
+    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmobet&count_private=true&theme=dark&layout=compact"/>
+    <img width=300 alt="cosmobet's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>
+    <img width=300 alt="cosmobet's Github contribution stats" height=50% src="https://github-contribution-stats.vercel.app/api/?username=cosmobet"/>
 </p>
